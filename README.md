@@ -1,4 +1,4 @@
-### S.O.L.I.D principles in orient object programing explained in Python with examples
+### S.O.L.I.D principles in object oriented programing explained in Python with examples
 
 Get from [here](https://github.com/heykarimoff/solid.python)
 * [Single Responsibility Principle](https://github.com/vantai-0501/solid_principles_in_oop/blob/master/1.srp.py)
